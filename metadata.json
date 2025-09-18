@@ -1,0 +1,5 @@
+{
+  "name": "LTE Frequency Calculator",
+  "description": "An advanced tool to perform lookups and calculations for LTE frequency bands, including EARFCN-to-frequency conversion, band information lookup, overlap identification, and UE category compatibility checks.",
+  "requestFramePermissions": []
+}
